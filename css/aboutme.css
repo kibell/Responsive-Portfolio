@@ -120,3 +120,20 @@ header
     width: 100%;
 }
 
+
+@media only screen and (max-width: 980px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    body {
+      background-color: rgb(2, 50, 66);
+    }
+  }
+  @media only screen and (max-width: 640px) {
+    body {
+      background-color: rgb(140, 228, 39);
+    }
+  }
